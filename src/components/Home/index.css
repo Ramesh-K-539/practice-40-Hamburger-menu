@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+* {
+  box-sizing: border-box;
+  font-family: 'roboto';
+}
+
+body {
+  margin: 0px;
+}
+
+.home-container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+}
+
+.default-home-img {
+  width: 350px;
+  height: 550px;
+  align-self: center;
+  margin-top: 50px;
+}

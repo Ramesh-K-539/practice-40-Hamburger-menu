@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.not-found-container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+  padding-bottom: 50px;
+}
+
+.default-not-found-img {
+  width: 350px;
+  height: 550px;
+  align-self: center;
+  margin-top: 50px;
+}
+
+.failure-heading {
+  color: #616e7c;
+  font-size: 27px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.failure-description {
+  color: #616e7c;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+}
